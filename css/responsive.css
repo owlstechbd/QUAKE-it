@@ -203,6 +203,11 @@
     width: 40px;
 }
 .quaked-box{
-    border-radius: 15px;
+    border-radius: 5px;
 }
+.quaked-box h2
+
+ {
+        font-size: 26px;
+    }
 }
