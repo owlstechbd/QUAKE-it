@@ -202,4 +202,7 @@
 .fixed-arrrow img{
     width: 40px;
 }
+.quaked-box{
+    border-radius: 15px;
+}
 }
